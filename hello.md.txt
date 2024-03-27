@@ -1,0 +1,8 @@
+hello git
+
+git command summary
+
+clone : storage remote copy
+add : add work file on stage area
+commit : save, can make commit with stage area files
+push : upload commit on remote storage
